@@ -44,10 +44,8 @@ Histórico de partidas
 📁 Entrega
 A entrega deve ser feita via GitHub, com as seguintes diretrizes:
 
-1. Link do Repositório
-Envie o link do seu repositório público do GitHub no sistema da disciplina (ex: Moodle, Classroom).
 
-2. Organização
+1. Organização
 O repositório deve conter:
 
 Código-fonte separado por pastas (src/, tests/, docs/)
@@ -70,7 +68,7 @@ Dificuldades enfrentadas
 
 Melhorias futuras
 
-3. Estrutura Sugerida
+2. Estrutura Sugerida
 pgsql
 Copiar
 Editar
