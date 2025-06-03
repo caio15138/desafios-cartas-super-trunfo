@@ -83,8 +83,6 @@ super-trunfo/
 ├── tests/
 │   └── test_jogo.py
 └── requirements.txt / package.json
-📅 Prazo de Entrega
-🗓️ [Definir aqui a data de entrega com a turma]
 
 🧑‍🏫 Avaliação
 A pontuação será baseada em:
